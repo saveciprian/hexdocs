@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Hexdream Blog
 ---
+Welcome to my blog page. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here's a picture of a cat: 
+![[2560px-Cat_August_2010-4.jpeg]]
