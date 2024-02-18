@@ -1,7 +1,7 @@
 ---
-title: Hexdream Blog
+title: Home
 ---
-Welcome to my blog page. 
+Hello and welcome. This is my personal blog page. Not all of the ideas that I place here are fully developped as this is based on the concept of a [[Digital Garden]].
 
-Here's a picture of a cat: 
-![[2560px-Cat_August_2010-4.jpeg]]
+![[option 1.mp4]]
+
